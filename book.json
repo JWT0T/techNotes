@@ -1,8 +1,13 @@
 {
-    "plugins": ["edit-link-plus"],
+    "plugins": [
+      "back-to-top-button",
+      "chapter-fold",
+      "edit-link-plus"
+    ],
     "pluginsConfig": {
         "edit-link-plus": {
-            "base": "https://github.com/JWT0T/techNotes/edit/main"
+            "base": "https://github.com/JWT0T/techNotes/edit/main",
+            "label": "编辑本页"
         }
     }
 }
