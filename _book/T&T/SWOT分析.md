@@ -1,0 +1,1 @@
+![](../images/SWOT分析.jpeg)
