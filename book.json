@@ -1,0 +1,8 @@
+{
+    "plugins": ["edit-link-plus"],
+    "pluginsConfig": {
+        "edit-link-plus": {
+            "base": "https://github.com/JWT0T/techNotes/edit/main"
+        }
+    }
+}
