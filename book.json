@@ -1,8 +1,12 @@
 {
     "plugins": [
+      "-lunr", "-search", "search-plus",
       "back-to-top-button",
       "chapter-fold",
-      "edit-link-plus"
+      "expandable-chapters",
+      "edit-link-plus",
+      "splitter",
+      "pageview-count"
     ],
     "pluginsConfig": {
         "edit-link-plus": {
