@@ -6,7 +6,8 @@
       "expandable-chapters",
       "edit-link-plus",
       "splitter",
-      "pageview-count"
+      "pageview-count",
+      "mermaid-gb3"
     ],
     "pluginsConfig": {
         "edit-link-plus": {

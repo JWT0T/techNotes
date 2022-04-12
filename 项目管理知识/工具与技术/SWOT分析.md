@@ -1,1 +1,1 @@
-![](../images/SWOT分析.jpeg)
+![](../../images/SWOT分析.jpeg)
