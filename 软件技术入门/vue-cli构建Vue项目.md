@@ -1,4 +1,4 @@
-# Vue.js安装
+# vue-cli创建Vue项目
 
  ## 创建新的project
 
@@ -30,3 +30,7 @@ package.json中添加
 `npm run serve`
 
 src文件夹中创建main.js
+
+## 注意
+
+需要注意的是，采用vue-cli构建的Vue项目，项目构建后入口不是`index.html`，因此，必要的时候需要采用webpack搭建Vue项目。
